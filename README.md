@@ -25,7 +25,7 @@ Welcome to **Smart Recipe** — the delightful web experience powered by the Rec
 ## Table of Contents
 - [About](#about)
 - [Functionality](#functionality)
-- [Key Features](#key-features)
+- [Features](#features)
 - [How It Works](#how-it-works)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -83,7 +83,7 @@ Project repository: [Recipe220](https://github.com/AndriyPy/Recipe220)
 - **Promtail** — log collection agent
   
 ---
-### ✨ Key Features
+### Features
 
 <div align="center">
   <table>
@@ -125,7 +125,7 @@ Project repository: [Recipe220](https://github.com/AndriyPy/Recipe220)
 </div>
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details>
 <summary><b>Click to expand full tech stack</b></summary>
