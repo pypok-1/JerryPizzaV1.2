@@ -172,7 +172,6 @@ Project repository: [Recipe220](https://github.com/AndriyPy/Recipe220)
 </details>
 
 ---
----
 ### Developers
 
 <div align="center">
