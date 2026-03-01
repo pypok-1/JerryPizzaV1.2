@@ -81,6 +81,50 @@ Project repository: [Recipe220](https://github.com/AndriyPy/Recipe220)
 - **Loki** — log aggregation
 - **cAdvisor** — container monitoring
 - **Promtail** — log collection agent
+  
+---
+
+## ✨ Key Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/search--v1.png" width="60"/><br/>
+        <b>Smart Search</b><br/>
+        <sub>Fuzzy search finds recipes even with typos</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/><br/>
+        <b>AI Generator</b><br/>
+        <sub>Create recipes from your ingredients</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/google-logo.png" width="60"/><br/>
+        <b>Google SSO</b><br/>
+        <sub>One-click login</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/dashboard.png" width="60"/><br/>
+        <b>Full Monitoring</b><br/>
+        <sub>Grafana + Prometheus stack</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/docker.png" width="60"/><br/>
+        <b>Docker Ready</b><br/>
+        <sub>Easy deployment with containers</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/cloudflare.png" width="60"/><br/>
+        <b>Bot Protection</b><br/>
+        <sub>Cloudflare Turnstile</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 ### Developers
 
